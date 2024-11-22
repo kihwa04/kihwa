@@ -1,0 +1,57 @@
+<!Doctype html>
+<html>
+ <head>
+        <title>Trial one</title>
+</head>
+<body>
+      <p><i>web design</i><p>
+</body>
+</html>
+<html>
+<head>
+    <title>Trial two</title>
+</head>
+<body>
+    <p style="font- size:20px;color:red;text-align:right">I am a brilliant girl.</p>
+</body>
+</html>
+<html>
+   <body styler="background-color:gold">
+  <!..content to the goes here...>														
+</body> 
+</html>
+<html>
+<head>
+     <title>Trial three</title>
+  <meta name="view port"content="width=device-width,initial-scale=1"/>
+</head>
+<body>
+           <h1>Wendy Wonders</h1>
+          <img source="images/example-image.jpg"/>
+    <p>Wendy wonders why many students don't like the schools food.</p>
+</body>
+</html>
+<html>
+<head>
+<title>Trial four</title>
+</head>
+   <body>
+            <centre>
+       <h1>I am a centerd heading</h1>
+      <p>I am acenterd paragraph</p>
+            </centre>
+    </body> 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+           
